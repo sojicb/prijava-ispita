@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "213446973485",
+    "project_id": "prijava-ispita",
+    "storage_bucket": "prijava-ispita.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213446973485:android:71da8be8227965bef800a4",
+        "android_client_info": {
+          "package_name": "tfzr.mtip.prijava_ispita"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213446973485-8gjl21149j86g26vlee0obfq6cel4suc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBl0YRGg79QydKYroyh5XctKMnWyqqDzA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213446973485-8gjl21149j86g26vlee0obfq6cel4suc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
